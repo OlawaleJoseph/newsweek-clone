@@ -1,20 +1,20 @@
-# Project Name
+# NEWSWEEK HOME PAGE CLONE
 
-> One paragraph statement about the project.
+> This is a project that demostartes the use of bootstrap frame work by cloning the home page of a webiste build with bootstrap
 
-![screenshot](./app_screenshot.png)
+![screenshot](newsweek-clone.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5, CSS3
+- BOOTSTRAP,
+- GIT, STYLELINT, WEBHINT, GITHUB ACTIONS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/OlawaleJoseph/newsweek-clone/c4ee85373bf782b8cb6e765af0789fb5ae0d217f/index.html)
 
 
 ## Getting Started
@@ -26,38 +26,30 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- GIT
+- BROWSER
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+- Clone this repo
+- cd into the cloned repo
+- Open the index.html file with any browser of your choice 
 
 ### Deployment
-
-
+- This simple webpage can be deployed on any web hosting platform
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/OlawaleJoseph)
+- Twitter: [@twitterhandle](https://twitter.com/javanode123)
+- Linkedin: [linkedin](www.linkedin.com/in/olawale-adedeko)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/OlawaleJoseph/newsweek-clone/issues).
 
 ## Show your support
 
@@ -65,9 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- BOOTSTRAP TEAM
+- MICROVERSE
 
 ## 📝 License
 

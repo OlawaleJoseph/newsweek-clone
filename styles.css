@@ -1,0 +1,484 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  background-color: #f4f5f6;
+}
+
+.wrapper {
+  background-color: #fff;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+header {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #fff;
+}
+
+.weather-image {
+  width: 30px;
+  height: 30px;
+}
+
+.logo {
+  fill: #fff;
+  width: 135px;
+  height: 30px;
+}
+
+.subscribe-btn {
+  background-color: #ffe400;
+  border-radius: 25px;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.light-gray-text {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.hamburger {
+  font-size: 20px;
+}
+
+.roboto {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.arial-font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-content {
+  overflow: visible;
+  margin-top: 8vh;
+}
+
+.section-header {
+  color: rgba(3, 3, 3, 0.4);
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  margin-top: 1rem;
+}
+
+.category-header {
+  font-size: 22px;
+}
+
+.article-image {
+  position: relative;
+}
+
+.bright-red-text {
+  color: #f72310;
+}
+
+.img-tag {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-weight: 900;
+}
+
+.card-body h5,
+.card-text {
+  line-height: 1;
+}
+
+.card-title a {
+  font-weight: 700;
+  color: #000;
+}
+
+.gray-border-top {
+  border-top: 1px solid #ddd;
+}
+
+.demacation {
+  height: 25px;
+  background-color: #f4f5f7;
+  margin-left: -15px;
+  margin-right: -15px;
+  border-top: 1px solid #e2e2e2;
+}
+
+.team-1 {
+  border-top: 4px solid #f92859;
+}
+
+.small-rounded-img {
+  width: 65px;
+  height: auto;
+}
+
+.debator-info {
+  width: 74%;
+}
+
+.debate-topic {
+  font-size: 17px !important;
+}
+
+.debator {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.color-555 {
+  color: #555;
+}
+
+.color-333 {
+  color: #333;
+}
+
+.versus {
+  position: relative;
+  height: 3px;
+  border-top: 1px solid #d9d9d9;
+}
+
+.gray-bottom-border {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.versus-tag {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  padding-top: 3px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #000;
+  color: #d9d9d9;
+}
+
+.team-2 {
+  border-bottom: 4px solid #1c87fb;
+}
+
+ul li.gray-bottom-border:last-child {
+  border: none;
+}
+
+.story-info {
+  font-size: 13px;
+  line-height: 1.2rem;
+}
+
+.my-turn-description {
+  font-size: 17px !important;
+}
+
+.small-tag {
+  background-color: #c2d4d7;
+  font-size: 12px;
+}
+
+.newsletter {
+  max-width: 300px;
+}
+
+.newsletter .card {
+  background-color: #f4f5f6;
+  border: 1px solid #e5e5e5;
+}
+
+small {
+  font-size: 14px;
+  line-height: 1.2rem;
+}
+
+.font-18 {
+  font-size: 18px !important;
+}
+
+.font-16 {
+  font-size: 16px !important;
+}
+
+.red-container {
+  width: 30px;
+  height: 30px;
+}
+
+.fit-content {
+  width: 86%;
+}
+
+polygon {
+  fill: #fff;
+}
+
+.bg-bright-red {
+  background-color: #f72310;
+}
+
+.bg-light-gray {
+  background-color: #f4f5f6;
+}
+
+.card-text input {
+  border: 1px solid #ebebeb;
+  font-size: 14px;
+}
+
+.text-black {
+  color: #000;
+}
+
+.font-14 {
+  font-size: 14px !important;
+}
+
+.twin-images {
+  position: relative;
+  width: 250px;
+  height: 240px;
+}
+
+.subscribe-images {
+  width: 170px;
+  height: 227px;
+}
+
+#subscribe-top-img {
+  position: absolute;
+  top: 12px;
+  left: 80px;
+}
+
+.news-img {
+  background: url("./assets/news.png") no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  width: 191px;
+  height: 288px;
+}
+
+.helvetica {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.line-height-12 {
+  line-height: 1.2rem;
+}
+
+.gray-top-border {
+  border-top: 1px solid #d9d9d9;
+}
+
+.flex-img {
+  width: 95px;
+}
+
+.flex-1 {
+  flex: 30%;
+}
+
+.st1 {
+  display: block;
+  width: 236px;
+  height: 36px;
+  margin-right: 15px;
+  margin-bottom: 9px;
+  fill: #f72310;
+}
+
+.social {
+  color: #666;
+}
+
+.social-icons {
+  font-size: 1.3rem;
+  margin-left: 10px;
+}
+
+.social-icons i {
+  width: 30px;
+  height: 30px;
+}
+
+.social-icons:first-child {
+  margin-left: 0;
+}
+
+.fb:hover {
+  color: #3b5998;
+}
+
+.twitter:hover {
+  color: #1da1f2;
+}
+
+.instagram {
+  color: #405de6;
+}
+
+.tumblr:hover {
+  color: #35465c;
+}
+
+.linkedIn:hover {
+  color: #0077b5;
+}
+
+@media (min-width: 350px) {
+  .subscribe-btn {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .top-right-header {
+    font-size: 18px;
+  }
+
+  .subscribe-btn,
+  .login-btn {
+    line-height: 30px;
+    padding-left: 22.5px;
+    padding-right: 22.5px;
+    font-size: 1.1rem;
+  }
+
+  .hamburger {
+    font-size: 30px;
+  }
+
+  .main-content {
+    display: grid;
+    grid-template-areas:
+      "top-left right-side"
+      "middle-left right-side"
+      "bot bot"
+      "base base";
+    column-gap: 30px;
+  }
+
+  .top-more {
+    grid-area: right-side;
+  }
+
+  .featured-story {
+    grid-area: top-left;
+  }
+
+  .debate-container {
+    grid-area: bot;
+  }
+
+  .sponsored {
+    grid-area: middle-left;
+  }
+
+  .misc {
+    grid-area: base;
+  }
+
+  .w-30 {
+    width: 30%;
+  }
+
+  .w-43 {
+    width: 43%;
+  }
+
+  .st1 {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .top-nav {
+    height: 95px;
+  }
+
+  .logo {
+    width: 296px;
+    height: 60px;
+    transform: scale(1.3);
+  }
+
+  .bottom-nav ul {
+    width: 85%;
+  }
+
+  .bottom-nav ul li a {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  #search-term {
+    width: 50px;
+    outline: none;
+  }
+
+  #search-term::placeholder {
+    color: #000;
+  }
+
+  .bottom-nav {
+    background-color: transparent;
+    overflow-x: hidden;
+  }
+
+  .bottom-nav::after {
+    content: "";
+    width: 10%;
+    position: absolute;
+    right: -1rem;
+    top: -10%;
+    height: 30%;
+    background-color: #f72310;
+    transform: skewX(45deg);
+  }
+
+  .gray-left-border {
+    border-left: 1px solid #d9d9d9;
+  }
+
+  .container-fluid {
+    padding: 10px 30px;
+  }
+
+  .main-content {
+    grid-template-areas: "top-left right-side bot";
+    grid-template-columns: 25% 45% 26%;
+    column-gap: 20px;
+    margin-top: 155px;
+  }
+
+  .w-43 {
+    width: 100%;
+  }
+
+  .debator-info {
+    width: 68%;
+  }
+}
+
+@media (min-width: 1310px) {
+  .wrapper {
+    max-width: 1310px;
+    margin: auto;
+  }
+
+  .main-content {
+    top: 23vh;
+  }
+}
