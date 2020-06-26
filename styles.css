@@ -330,3 +330,76 @@ polygon {
 .linkedIn:hover {
   color: #0077b5;
 }
+
+@media (min-width: 350px) {
+  .subscribe-btn {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .top-right-header {
+    font-size: 18px;
+  }
+
+  .subscribe-btn,
+  .login-btn {
+    line-height: 30px;
+    padding-left: 22.5px;
+    padding-right: 22.5px;
+    font-size: 1.1rem;
+  }
+
+  .hamburger {
+    font-size: 30px;
+  }
+
+  /**********  END OF HEADER  ************/
+
+  /* MAIN BODY */
+
+  /* *****************LAYOUT***************** */
+
+  .main-content {
+    display: grid;
+    grid-template-areas:
+      "top-left right-side"
+      "middle-left right-side"
+      "bot bot"
+      "base base";
+    column-gap: 30px;
+  }
+
+  .top-more {
+    grid-area: right-side;
+  }
+
+  .featured-story {
+    grid-area: top-left;
+  }
+
+  .debate-container {
+    grid-area: bot;
+  }
+
+  .sponsored {
+    grid-area: middle-left;
+  }
+
+  .misc {
+    grid-area: base;
+  }
+
+  .w-30 {
+    width: 30%;
+  }
+
+  .w-43 {
+    width: 43%;
+  }
+
+  .st1 {
+    margin-bottom: 0;
+  }
+}
