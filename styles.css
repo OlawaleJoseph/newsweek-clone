@@ -396,6 +396,10 @@ polygon {
     grid-area: base;
   }
 
+  .mag-img {
+    
+  }
+
   .w-30 {
     width: 30%;
   }
