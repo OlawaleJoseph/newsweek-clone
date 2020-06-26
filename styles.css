@@ -283,3 +283,50 @@ polygon {
 .flex-1 {
   flex: 30%;
 }
+
+.st1 {
+  display: block;
+  width: 236px;
+  height: 36px;
+  margin-right: 15px;
+  margin-bottom: 9px;
+  fill: #f72310;
+}
+
+.social {
+  color: #666;
+}
+
+.social-icons {
+  font-size: 1.3rem;
+  margin-left: 10px;
+}
+
+.social-icons i {
+  width: 30px;
+  height: 30px;
+}
+
+.social-icons:first-child {
+  margin-left: 0;
+}
+
+.fb:hover {
+  color: #3b5998;
+}
+
+.twitter:hover {
+  color: #1da1f2;
+}
+
+.instagram {
+  color: #405de6;
+}
+
+.tumblr:hover {
+  color: #35465c;
+}
+
+.linkedIn:hover {
+  color: #0077b5;
+}
