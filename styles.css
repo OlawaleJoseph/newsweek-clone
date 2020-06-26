@@ -111,3 +111,74 @@ header {
   width: 65px;
   height: auto;
 }
+
+.debator-info {
+  width: 75%;
+}
+
+.debate-topic {
+  font-size: 17px !important;
+}
+
+.debator {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.color-555 {
+  color: #555;
+}
+
+.color-333 {
+  color: #333;
+}
+
+.versus {
+  position: relative;
+  height: 3px;
+  border-top: 1px solid #d9d9d9;
+}
+
+.gray-bottom-border {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.versus-tag {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  padding-top: 3px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #000;
+  color: #d9d9d9;
+}
+
+.team-2 {
+  border-bottom: 4px solid #1c87fb;
+}
+
+ul li.gray-bottom-border:last-child {
+  border: none;
+}
+
+.story-info {
+  font-size: 13px;
+  line-height: 1.2rem;
+}
+
+.my-turn-description {
+  font-size: 17px !important;
+}
+
+.small-tag {
+  background-color: #c2d4d7;
+  font-size: 12px;
+}
