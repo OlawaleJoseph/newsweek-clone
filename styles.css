@@ -403,3 +403,72 @@ polygon {
     margin-bottom: 0;
   }
 }
+
+@media (min-width: 992px) {
+  .top-nav {
+    height: 95px;
+  }
+
+  .logo {
+    width: 296px;
+    height: 60px;
+    transform: scale(1.3);
+  }
+
+  .bottom-nav ul {
+    width: 85%;
+  }
+
+  .bottom-nav ul li a {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  #search-term {
+    width: 50px;
+    outline: none;
+  }
+
+  #search-term::placeholder {
+    color: #000;
+  }
+
+  .bottom-nav {
+    background-color: transparent;
+    overflow-x: hidden;
+  }
+
+  .bottom-nav::after {
+    content: "";
+    width: 10%;
+    position: absolute;
+    right: -1rem;
+    top: -10%;
+    height: 30%;
+    background-color: #f72310;
+    transform: skewX(45deg);
+  }
+
+  .gray-left-border {
+    border-left: 1px solid #d9d9d9;
+  }
+
+  .container-fluid {
+    padding: 10px 30px;
+  }
+
+  .main-content {
+    grid-template-areas: "top-left right-side bot";
+    grid-template-columns: 25% 45% 25%;
+    column-gap: 20px;
+    margin-top: 26vh;
+  }
+
+  .w-43 {
+    width: 100%;
+  }
+
+  .debator-info {
+    width: 68%;
+  }
+}
