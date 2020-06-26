@@ -360,12 +360,6 @@ polygon {
     font-size: 30px;
   }
 
-  /**********  END OF HEADER  ************/
-
-  /* MAIN BODY */
-
-  /* *****************LAYOUT***************** */
-
   .main-content {
     display: grid;
     grid-template-areas:
@@ -394,10 +388,6 @@ polygon {
 
   .misc {
     grid-area: base;
-  }
-
-  .mag-img {
-    
   }
 
   .w-30 {
