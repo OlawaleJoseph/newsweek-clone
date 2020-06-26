@@ -39,3 +39,32 @@ header {
 .hamburger {
   font-size: 20px;
 }
+
+.roboto {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.arial-font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-content {
+  overflow: visible;
+  margin-top: 8vh;
+}
+
+.section-header {
+  color: rgba(3, 3, 3, 0.4);
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  margin-top: 1rem;
+}
+
+.category-header {
+  font-size: 22px;
+}
+
+.article-image {
+  position: relative;
+}
