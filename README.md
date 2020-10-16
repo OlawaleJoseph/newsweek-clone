@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Adedeko Olawale**
 
 - Github: [@githubhandle](https://github.com/OlawaleJoseph)
 - Twitter: [@twitterhandle](https://twitter.com/javanode123)
